@@ -14,6 +14,8 @@ parser.py will exctract all ip's from the file, you can paste your own list or d
 
 NOTE: ProxyHunter works by downloading a sample file and it needs to know what kind of protocol the proxy uses. So every proxy inserted in the form ip:port without protocol will be also checked for that and this takes some extra time.
 
+Tested on Kali Linux 2024.1
+
 
 
       
